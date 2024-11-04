@@ -1,0 +1,64 @@
+text,label
+"Warranty Document
+    Warranty Certificate
+    This is a warranty certificate for the product purchased from XYZ Electronics.
+    Warranty period: 2 years from the date of purchase.
+    Please retain this certificate for future claims.
+    ",Warranty
+"Warranty Document
+    Product Warranty Information
+    Thank you for purchasing from ABC Inc.
+    Your product is covered under warranty for 1 year from purchase.
+    Terms apply as per the warranty policy. Reach us for more details.
+    ",Warranty
+"Warranty Document
+    Limited Warranty Document
+    Your device is covered under limited warranty for 18 months.
+    Warranty is void if any unauthorized repairs are made.
+    Please contact customer support for any warranty claims.
+    ",Warranty
+"Transaction Report
+    Transaction Report
+    Transaction ID: TXN2024A001
+    Date: 2024-11-01
+    Amount: $450.00
+    Status: Completed
+    Description: Purchase of electronic items.
+    ",Transactions
+"Transaction Report
+    Payment Receipt
+    Transaction ID: TXN2024B002
+    Date: 2024-11-02
+    Amount: $299.99
+    Status: Successful
+    Description: Online purchase of apparel.
+    ",Transactions
+"Transaction Report
+    Transaction Details
+    Transaction ID: TXN2024C003
+    Date: 2024-11-03
+    Amount: $150.00
+    Status: Completed
+    Description: Subscription renewal.
+    ",Transactions
+"Troubleshooting Guide
+    Troubleshooting Guide - Connectivity Issues
+    If you are unable to connect to the network, try the following steps:
+    1. Check your internet connection.
+    2. Restart your router.
+    3. Verify your device's network settings.
+    ",Troubleshooting
+"Troubleshooting Guide
+    Troubleshooting Steps for Software Installation
+    If you encounter issues during software installation, follow these steps:
+    1. Make sure you have administrative privileges.
+    2. Disable any active antivirus software temporarily.
+    3. Restart your computer and try again.
+    ",Troubleshooting
+"Troubleshooting Guide
+    Hardware Troubleshooting Instructions
+    If your device is not powering on, please try:
+    1. Checking the power supply.
+    2. Ensuring all cables are securely connected.
+    3. Contacting technical support for further assistance.
+    ",Troubleshooting

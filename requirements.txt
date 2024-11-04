@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+pandas
+scikit-learn
+numpy
+PyPDF2
+joblib
+SQLAlchemy
